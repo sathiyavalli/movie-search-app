@@ -12,17 +12,7 @@ A React + TypeScript project that allows users to search for movies, filter by g
 - Toggleable "Advanced Filters" section
 - Unit tests using Vitest and Testing Library
 
-## Project Structure
-
-src/
-├── api/ # Mock API (mockApi.ts)
-├── context/ # Favorites context with reducer
-├── pages/ # Home, Details, Favorites
-│ └── tests/ # Page-specific unit tests
-├── styles/ # Global CSS styles
-├── types/ # Shared TypeScript types
-├── App.tsx # Main route definitions
-├── main.tsx # App entry point
+<pre> ## Project Structure ``` src/ ├── api/ # Mock API (mockApi.ts) ├── context/ # Favorites context with reducer ├── pages/ # Home, Details, Favorites │ └── tests/ # Page-specific unit tests ├── styles/ # Global CSS styles ├── types/ # Shared TypeScript types ├── App.tsx # Main route definitions ├── main.tsx # App entry point ``` </pre>
 
 ## shell
 ## Setup Instructions
