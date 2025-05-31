@@ -58,15 +58,15 @@ npx vitest
 - CSS (no external libraries)
 
 ## Screenshots
-test-passed-confirmation -> Confirmation of all test scenarios passed
-Screenshot - Home beforesearch -> home page before search
-Screenshot after search plus advance filter chosen -> home page after search input + advance filter chosen
-Screenshot pagination -> image of pagination
-Screenshot details page -> details page of the movie
-screen-favourites -> favourites page with recently viewed movies section
-Screenshot localstorage data (favourites + recently viewed) - Data stored in the localstorage(favourites plus recentlyviwed data)
-Screenshot mobile-home -> Responsive mobile view of the home page
-Screenshot mobile-favourites page -> Responsive mobile view of favourites page
+- test-passed-confirmation -> Confirmation of all test scenarios passed
+- Screenshot - Home beforesearch -> home page before search
+- Screenshot after search plus advance filter chosen -> home page after search input + advance filter chosen
+- Screenshot pagination -> image of pagination
+- Screenshot details page -> details page of the movie
+- screen-favourites -> favourites page with recently viewed movies section
+- Screenshot localstorage data (favourites + recently viewed) - Data stored in the localstorage(favourites plus recentlyviwed data)
+- Screenshot mobile-home -> Responsive mobile view of the home page
+- Screenshot mobile-favourites page -> Responsive mobile view of favourites page
 
 ## Notes
 
